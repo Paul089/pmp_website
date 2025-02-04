@@ -2,7 +2,7 @@
 output: html_document
 ---
 ## Knowledge :brain:
-Here you can find **ideas** we have pursued in the past and
+Here you can find [**ideas**](/ideas/) we have pursued in the past and
 useful resources regarding everything finance and portfolio management related.
 
 

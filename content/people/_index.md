@@ -11,9 +11,13 @@ Feel free to get in touch with us!
 - Prof. Tim Adam ([:envelope:](https://www.wiwi.hu-berlin.de/en/Professorships/bwl/finance/finance-staff/tim-adam))
 
 ### Managers
-- Henry
+- Henry Petersen
 - Akos
+- Paul Kudlek
 
-### Analysts
-*Currently we have no analysts*
+### PhD Students
+- Philipp Tolios
+- Paul Peter Dimke
+
+
 

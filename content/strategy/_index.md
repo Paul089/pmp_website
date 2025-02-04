@@ -21,12 +21,12 @@ Explore our [**Ideas**](/ideas/)
 
 ## Performance :chart_with_upwards_trend:
 
-![Historical Performance Chart](/img/performance.jpg)
+![Historical Performance Chart](/img/perf_vs_spx.jpeg)
 
 ## Portfolio :briefcase:
 
 ### Explore our Portfolio
-Visit our interactive [Web App]() and explore our portfolio!
+Visit our interactive [Web App (*coming soon*)]() and explore our portfolio!
 
 
 ### Asset Allocation
@@ -34,12 +34,16 @@ Currently we are only investing in constituents of the S&P500 due to limited res
 to expand our investment universe to other regions such as Europe and Asia. We also aim to invest in 
 commodities and fixed income in the future.
 \
-Our Portfolio for each month is determined by optimizing our factors, namely **Market Risk**
-, **Size**, **Value**, **Momentum** and **Volatility**.
+Our Portfolio for each month is determined by optimizing our factors, namely: 
+- **Market Risk**
+- **Size**
+- **Value**
+- **Momentum**
+- **Volatility**.
 
 ### Monthly Reports
 
-- [Portfolio Report 01-2025]()
+- [Portfolio Report 01-2025](/strategy/report_01_2025.pdf)
 
 
 
